@@ -1,0 +1,13 @@
+// Date
+// date is object in javascript
+// to be learn
+
+let mydate = new Date()
+console.log(mydate.toString);
+console.log(mydate.toLocaleString)
+
+let date1 = new Date("2023,03,28")
+console.log(date1.toLocaleString());
+
+let newdate = new Date();
+console.log(newdate.getDay());
